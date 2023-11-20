@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>배포 테스트</div>
+      <div>배포 테스트123</div>
     </>
   );
 }
